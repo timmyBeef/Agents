@@ -49,8 +49,12 @@ Make sure you have these installed on your system:
    - Pull the base image (`python:3.12-slim`).
    - Run `postCreateCommand` to install dependencies.
    - Mount your workspace into `/workspace`.
-![alt text](image.png)
-![alt text](image-1.png)
+
+You will see this in the left bottom corner: opening remote...
+![alt text](opening_remote.png)
+
+Then dev container connected successfully.
+![alt text](dev_container_sucess.png)
 ---
 
 ## 4. Verify setup

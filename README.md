@@ -50,10 +50,9 @@ Make sure you have these installed on your system:
    - Run `postCreateCommand` to install dependencies.
    - Mount your workspace into `/workspace`.
 
-You will see this in the left bottom corner: opening remote...
+   - You will see this in the left bottom corner: opening remote...
 ![alt text](opening_remote.png)
-
-Then dev container connected successfully.
+   - Then dev container connected successfully.
 ![alt text](dev_container_sucess.png)
 ---
 
